@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<slideshow>
+	<photo image="images/epfr3a.jpg" url="http://www.bahnautomation.com/xenon.html" target="_self" duration="5"/>
+	<photo image="images/epfr1.jpg" url="http://www.bahnautomation.com/xenon.html" target="_self" duration="5"/>
+	<photo image="images/epfr2.jpg" url="http://www.bahnautomation.com/xenon.html" target="_self" duration="5"/>
+	<photo image="images/epfr3.jpg" url="http://www.bahnautomation.com/xenon.html" target="_self" duration="5"/>
+	<photo image="images/epfr4.jpg" url="http://www.bahnautomation.com/xenon.html" target="_self" duration="5"/>
+	<photo image="images/epfr5.jpg" url="http://www.bahnautomation.com/xenon.html" target="_self" duration="5"/>
+</slideshow>

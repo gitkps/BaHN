@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<slideshow>
+	<photo image="images/het_title.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+	<photo image="images/hettest1.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+	<photo image="images/hettest2.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+	<photo image="images/hettest3.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+	<photo image="images/hettest4.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+	<photo image="images/hettest5.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+	<photo image="images/hettest6.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+	<photo image="images/hettest7.jpg" url="http://www.bahnautomation.com/hettest.html" target="_self" duration="5"/>
+</slideshow>

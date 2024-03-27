@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<slideshow>
+	<photo image="images/sitedas_title.jpg" url="http://www.bahnautomation.com/site.html" target="_self" duration="5"/>
+	<photo image="images/sitedas_1.jpg" url="http://www.bahnautomation.com/site.html" target="_self" duration="5"/>
+	<photo image="images/sitedas_2.jpg" url="http://www.bahnautomation.com/site.html" target="_self" duration="5"/>
+	<photo image="images/sitedas_3.jpg" url="http://www.bahnautomation.com/site.html" target="_self" duration="5"/>
+	<photo image="images/sitedas_4.jpg" url="http://www.bahnautomation.com/site.html" target="_self" duration="5"/>
+	<photo image="images/sitedas_5.jpg" url="http://www.bahnautomation.com/site.html" target="_self" duration="5"/>
+	<photo image="images/sitedas_6.jpg" url="http://www.bahnautomation.com/site.html" target="_self" duration="5"/>
+</slideshow>

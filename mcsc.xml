@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<slideshow>
+	<photo image="images/mcsctitle.jpg" url="http://www.bahnautomation.com/mcsc.html" target="_self" duration="5"/>
+	<photo image="images/mcscmmi_1.jpg" url="http://www.bahnautomation.com/mcsc.html" target="_self" duration="5"/>
+	<photo image="images/mcscmmi_2.jpg" url="http://www.bahnautomation.com/mcsc.html" target="_self" duration="5"/>
+	<photo image="images/mcscmmi_3.jpg" url="http://www.bahnautomation.com/mcsc.html" target="_self" duration="5"/>
+	<photo image="images/mcscmmi_4.jpg" url="http://www.bahnautomation.com/mcsc.html" target="_self" duration="5"/>
+	<photo image="images/mcscmmi_5.jpg" url="http://www.bahnautomation.com/mcsc.html" target="_self" duration="5"/>
+	<photo image="images/mcscmmi_6.jpg" url="http://www.bahnautomation.com/mcsc.html" target="_self" duration="5"/>
+</slideshow>

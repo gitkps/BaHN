@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<slideshow>
+	<photo image="images/tptdas_title.jpg" url="http://www.bahnautomation.com/tptdas.html" target="_self" duration="5"/>
+	<photo image="images/tptdas_1.jpg" url="http://www.bahnautomation.com/tptdas.html" target="_self" duration="5"/>
+	<photo image="images/tptdas_2.jpg" url="http://www.bahnautomation.com/tptdas.html" target="_self" duration="5"/>
+	<photo image="images/tptdas_3.jpg" url="http://www.bahnautomation.com/tptdas.html" target="_self" duration="5"/>
+	<photo image="images/tptdas_4.jpg" url="http://www.bahnautomation.com/tptdas.html" target="_self" duration="5"/>
+	<photo image="images/tptdas_5.jpg" url="http://www.bahnautomation.com/tptdas.html" target="_self" duration="5"/>
+	<photo image="images/tptdas_6.jpg" url="http://www.bahnautomation.com/tptdas.html" target="_self" duration="5"/>
+</slideshow>

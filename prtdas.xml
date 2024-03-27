@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<slideshow>
+	<photo image="images/prtdas_title.jpg" url="http://www.bahnautomation.com/prdascryo.html" target="_self" duration="5"/>
+	<photo image="images/prtdas_1.jpg" url="http://www.bahnautomation.com/prdascryo.html" target="_self" duration="5"/>
+	<photo image="images/prtdas_2.jpg" url="http://www.bahnautomation.com/prdascryo.html" target="_self" duration="5"/>
+	<photo image="images/prtdas_3.jpg" url="http://www.bahnautomation.com/prdascryo.html" target="_self" duration="5"/>
+	<photo image="images/prtdas_4.jpg" url="http://www.bahnautomation.com/prdascryo.html" target="_self" duration="5"/>
+	<photo image="images/prtdas_5.jpg" url="http://www.bahnautomation.com/prdascryo.html" target="_self" duration="5"/>
+</slideshow>
